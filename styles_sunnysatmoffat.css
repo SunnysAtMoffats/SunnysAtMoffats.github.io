@@ -1,0 +1,245 @@
+/* ultimo web design styles sunnys@moffat */
+
+/*---------------Head-------------------------*/
+
+#wrapper {
+	position:relative;
+	text-align:left;
+	width:746px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: #FFFFFF;
+	height: 550px;
+	margin-top: 15px;
+	padding: 2px;
+}
+#wrapper_menus {
+	position:relative;
+	text-align:left;
+	width:746px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: #FFFFFF;
+	margin-top: 15px;
+	padding: 2px;
+}
+
+#footer {
+	height: 20px;
+	width: 736px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 15px;
+}
+#footer table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+}
+
+#footer p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333;
+	padding-top: 0px;
+	margin: 0px;
+}
+#maincontent h1  {
+	padding-top: 0px;
+	padding-left: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #39F;
+}
+
+
+
+#header {
+	width: 746px;
+}
+
+#splitline {
+	background-color: #CCCCCC;
+	float: left;
+	height: 28px;
+	width: 250px;
+	margin-top: 2px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+}
+/* ---------------Navigation-------------------*/
+#navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	float: right;
+	position: relative;
+	height: 30px;
+	width: 494px;
+	background-color:#3399FF;
+	margin-top:2px;
+	margin-left:2px;
+}
+
+
+#navigation li {
+	display:inline;
+}
+#navigation ul {
+	list-style:none;
+	margin: 0;
+	padding: 0;
+	padding-top: 6px;
+	padding-left: 2px;
+	
+}
+#navigation a:link, #navigation a:visited {
+	padding: 3px 10px 5px 10px;
+	color:#FFFFFF;
+	background-color: #3399FF;
+	text-decoration: none;
+}	
+#navigation a:hover {
+	color: #FFFFFF;
+	background-color: #00CCFF;
+}
+
+/* ---------------Content-------------------*/
+
+#leftcontent {
+	height: auto;
+	width: 250px;
+	margin-top:2px;
+	background-color: #FFF;
+	float: left;
+	position: relative;
+	padding-top: 10px;
+}
+#leftcontent h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3399FF;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-top: 0px;
+}
+#leftcontent h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #39F;
+	padding-left: 10px;
+	padding-top: 0px;
+}
+#leftcontent p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+#leftcontent img {
+	padding-top: 20px;
+}
+#maincontent {
+	width: 494px;
+	height: auto;
+	float: right;
+	background-color: #FFF;
+	padding-top: 15px;
+}
+#maincontent h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+#maincontent h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #39F;
+	padding-left: 20px;
+}
+
+#maincontent p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	padding-left: 20px;
+	color: #333;
+	padding-right: 10px;
+	padding-top: 0px;
+	margin: 0px;
+}
+#maincontent img  {
+	padding-left: 10px;
+	padding-top: 0px;
+}
+#menus_content {
+	background-color: #FFF;
+	float: right;
+	height: auto;
+	width: 494px;
+	padding-top: 15px;
+}
+#menus_content ul li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	padding-right: 15px;
+}
+#menus_content h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #39F;
+	padding-left: 15px;
+	padding-top: 0px;
+	line-height: normal;
+}
+#menus_content p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	padding-left: 15px;
+	padding-right: 10px;
+}
+#menus_content h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #39F;
+	padding-left: 15px;
+	line-height: normal;
+}
+
+
+
+
+#content h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+#1 {
+	margin-top: 35px;
+}
+#wrapper_menus #menus_content #sub {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
